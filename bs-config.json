@@ -1,0 +1,10 @@
+{
+    "injectChanges": true,
+    "codeSync": true,
+    "port": 3000,
+    "files": ["./src/**/*.{html,htm,css,js,ts}"],
+    "server": { "baseDir": "src",
+        "directory": true }
+    
+
+  }
